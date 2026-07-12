@@ -777,7 +777,7 @@ docker-compose -f docker-compose.prod.yml up --build -d
 | **Project** | Solar & Wind Deployment Intelligence Platform |
 | **Intern** | Seelamsetty Deepika Sai|
 | **GitHub** | [@deepu-502](https://github.com/deepu-502) |
-| **Repository** | [Solar_and_Wind_Deployment_Intelligence_Platform](https://github.com/deepu-502/Solar_and_Wind_Deployment_Intelligence_Platform) |
+| **Repository** | [Solar_and_Wind_Deployment_Intelligence_Platform](https://github.com/deepu-502/solar-wind-deployment-intelligence-platform) |
 
 ---
 
