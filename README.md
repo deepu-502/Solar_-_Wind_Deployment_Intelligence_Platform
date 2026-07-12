@@ -775,9 +775,9 @@ docker-compose -f docker-compose.prod.yml up --build -d
 |---|---|
 | **Internship** | Infosys Springboard Virtual Internship |
 | **Project** | Solar & Wind Deployment Intelligence Platform |
-| **Intern** | Smita Mhatugade |
-| **GitHub** | [@Smita-Mhatugade](https://github.com/Smita-Mhatugade) |
-| **Repository** | [Solar_and_Wind_Deployment_Intelligence_Platform](https://github.com/Smita-Mhatugade/Solar_and_Wind_Deployment_Intelligence_Platform) |
+| **Intern** | Seelamsetty Deepika Sai|
+| **GitHub** | [@deepu-502](https://github.com/deepu-502) |
+| **Repository** | [Solar_and_Wind_Deployment_Intelligence_Platform](https://github.com/deepu-502/Solar_and_Wind_Deployment_Intelligence_Platform) |
 
 ---
 
