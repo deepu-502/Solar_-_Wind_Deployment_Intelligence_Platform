@@ -12,7 +12,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
->  **Infosys Springboard Virtual Internship** — Seelamsetty Deepik Sai
+>  **Infosys Springboard Virtual Internship** — Seelamsetty Deepika Sai
 
 *Empowering renewable energy companies, government agencies, and sustainability consultants with AI-driven geospatial intelligence.*
 
