@@ -749,7 +749,7 @@ Tokens expire after 30 minutes. Simply log in again. To increase the lifetime, c
 | **Project** | Solar & Wind Deployment Intelligence Platform |
 | **Intern** | Seelamsetty Deepika Sai|
 | **GitHub** | [@deepu-502](https://github.com/deepu-502) |
-| **Repository** | [Solar_and_Wind_Deployment_Intelligence_Platform](https://github.com/deepu-502/Solar_and_Wind_Deployment_Intelligence_Platform) |
+| **Repository** | [Solar_-_Wind_Deployment_Intelligence_Platform](https://github.com/deepu-502/Solar_-_Wind_Deployment_Intelligence_Platform) |
 
 ---
 
