@@ -1,7 +1,7 @@
 # Database Design
 ## Solar & Wind Deployment Intelligence Platform
 
-*Updated: 11 July 2026 — Synced with actual SQLAlchemy ORM models*
+*Updated: 08 July 2026 — Synced with actual SQLAlchemy ORM models*
 
 ---
 
@@ -165,4 +165,4 @@ All foreign keys use `ON DELETE CASCADE` — deleting a user removes all their d
 
 ---
 
-*Last updated: 11 July 2026 | Synchronized with actual ORM models*
+*Last updated: 08 July 2026 | Synchronized with actual ORM models*
